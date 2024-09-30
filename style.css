@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: var(--bg-color);
+    background-color: var(--terciary-color);
     color: var(--primary-color);
     font-family: var(--font);
     height: 100vh;
@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: var(--terciary-color);
+    background-color: var(--primary-color);
     text-align: center;
     padding: 1px;
 }
