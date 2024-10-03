@@ -13,4 +13,3 @@ async function vizualizarinformacoesGlobais() {
   }
   
   vizualizarinformacoesGlobais()
->>>>>>> 357ed49792a0a7728332f2dca7b3aa1e2215e64a
